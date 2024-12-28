@@ -12,7 +12,7 @@ This is an auto-delete Telegram bot built using Go, MongoDB, and the Telegram Bo
 
 ## Requirements
 
-# Fill all requirements into [main.go] (https://github.com/PrinceStarLord/go-autodelete-bot/blob/main/main.go)
+### Fill all requirements into [main.go] (https://github.com/PrinceStarLord/go-autodelete-bot/blob/main/main.go)
 
 - Go (version 1.18+)
 - MongoDB 
