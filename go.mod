@@ -1,4 +1,4 @@
-module https://github.com/PrinceStarLord/go-autodelete-bot
+module github.com/PrinceStarLord/go-autodelete-bot
 
 go 1.22.2
 
